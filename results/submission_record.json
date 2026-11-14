@@ -1,0 +1,11 @@
+{
+  "public_pq_display": "0.33",
+  "competition": "filament-segmentation-2026",
+  "sha256": "c488b4a1f67d6e6166cb3d4ab7274b448e8240d5ce1c9f4dafc647cc48a4aa80",
+  "predictions": 1177,
+  "test_images": 180,
+  "test_images_with_predictions": 178,
+  "trimmed_masks": 9,
+  "overlapping_images_repaired": 8,
+  "removed_shared_pixel_assignments": 11398
+}

@@ -1,0 +1,7 @@
+variant,pq_iou_gt_050,pq_iou_gt_040
+maskrcnn,0.37519,0.39683
+tiled_only,0.30851,0.36065
+after_tiled,0.37865,0.41037
+after_crop,0.34019,0.38607
+lightgbm_without_crop,0.39711,0.43105
+after_lightgbm,0.39743,0.43124
